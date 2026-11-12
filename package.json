@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2"},"description":"Drop-in OpenAI-compatible LLM proxy that cuts spend with a semantic cache and smart model routing, plus live cost tracing.","license":"MIT","main":"server.js","name":"llm-cost-guard","scripts":{"demo":"node demo.js","start":"node server.js"},"version":"1.0.0"}
